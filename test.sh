@@ -6,3 +6,5 @@ kom 2
 Kom 3
 #
 Kom5
+#
+DONE
